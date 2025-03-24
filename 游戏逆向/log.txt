@@ -1,0 +1,886 @@
+正在调试：D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\SiglusEngineCHS.exe
+数据库文件： D:\Sec-Tools\Reverse\iTruth_x64dbg_2020-05-15_14-40_v2\release\x32\db\SiglusEngineCHS.exe.dd32
+正在读取命令行……
+正在从 D:\Sec-Tools\Reverse\iTruth_x64dbg_2020-05-15_14-40_v2\release\x32\db\SiglusEngineCHS.exe.dd32 载入数据库 781毫秒
+[xAnalyzer]: Analysis retrieved from data base 
+进程已启动： 00400000 D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\SiglusEngineCHS.exe
+  "D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\SiglusEngineCHS.exe"
+  argv[0]: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\SiglusEngineCHS.exe
+断点已设置在 005C373A (入口断点) ！
+没有断点 "LdrInitializeThunk"
+DLL已载入： 77C90000 C:\Windows\SysWOW64\ntdll.dll
+DLL已载入： 777C0000 C:\Windows\SysWOW64\kernel32.dll
+DLL已载入： 77920000 C:\Windows\SysWOW64\KernelBase.dll
+DLL已载入： 75910000 C:\Windows\SysWOW64\advapi32.dll
+DLL已载入： 77130000 C:\Windows\SysWOW64\msvcrt.dll
+线程 5A34 已启动，入口： ntdll.77CCEF40
+DLL已载入： 77BF0000 C:\Windows\SysWOW64\sechost.dll
+DLL已载入： 77330000 C:\Windows\SysWOW64\bcrypt.dll
+线程 2E58 已启动，入口： ntdll.77CCEF40
+DLL已载入： 764F0000 C:\Windows\SysWOW64\rpcrt4.dll
+DLL已载入： 76C90000 C:\Windows\SysWOW64\gdi32.dll
+DLL已载入： 67AD0000 C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22621.4391_none_6ec30a5687fc679c\comctl32.dll
+DLL已载入： 75D10000 C:\Windows\SysWOW64\win32u.dll
+DLL已载入： 68650000 C:\Windows\SysWOW64\dsound.dll
+线程 5938 已启动，入口： ntdll.77CCEF40
+DLL已载入： 76EB0000 C:\Windows\SysWOW64\user32.dll
+[Fuck1481] GetForegroundWindow: 76EE3E70, GetActiveWindow: 76F35C70
+[Fuck1481] GetForegroundWindow patched!
+DLL已载入： 76D20000 C:\Windows\SysWOW64\gdi32full.dll
+DLL已载入： 769F0000 C:\Windows\SysWOW64\combase.dll
+DLL已载入： 77400000 C:\Windows\SysWOW64\msvcp_win.dll
+DLL已载入： 759A0000 C:\Windows\SysWOW64\ucrtbase.dll
+DLL已载入： 01250000 C:\Windows\SysWOW64\ucrtbase.dll
+DLL已卸载： 01250000 ucrtbase.dll
+DLL已载入： 753A0000 C:\Windows\SysWOW64\powrprof.dll
+DLL已载入： 65AB0000 C:\Windows\SysWOW64\RESAMPLEDMO.DLL
+DLL已载入： 77BC0000 C:\Windows\SysWOW64\imm32.dll
+DLL已载入： 77200000 C:\Windows\SysWOW64\oleaut32.dll
+DLL已载入： 01250000 C:\Windows\SysWOW64\oleaut32.dll
+DLL已卸载： 01250000 oleaut32.dll
+DLL已载入： 75D30000 C:\Windows\SysWOW64\shell32.dll
+DLL已载入： 67180000 C:\Windows\SysWOW64\winmmbase.dll
+DLL已载入： 54CB0000 C:\Windows\SysWOW64\msdmo.dll
+DLL已载入： 75AC0000 C:\Windows\SysWOW64\imagehlp.dll
+DLL已载入： 72590000 C:\Windows\SysWOW64\winmm.dll
+DLL已载入： 75BB0000 C:\Windows\SysWOW64\ole32.dll
+DLL已载入： 75360000 C:\Windows\SysWOW64\version.dll
+DLL已载入： 668C0000 C:\Windows\SysWOW64\d3d9.dll
+DLL已载入： 6C5D0000 C:\Windows\SysWOW64\dwmapi.dll
+DLL已载入： 74040000 C:\Windows\SysWOW64\DXCore.dll
+[ScyllaHide] Loaded VA for NtUserBlockInput = 0x75D14B00
+[ScyllaHide] Loaded VA for NtUserQueryWindow = 0x75D11170
+[ScyllaHide] Loaded VA for NtUserBuildHwndList = 0x75D11230
+[ScyllaHide] Loaded VA for NtUserFindWindowEx = 0x75D11700
+[ScyllaHide] Loaded VA for NtUserGetClassName = 0x75D117D0
+[ScyllaHide] Loaded VA for NtUserInternalGetWindowText = 0x75D11660
+[ScyllaHide] Hook injection successful, image base 00CD0000
+[SharpOD x64] inject kernel dll successful...
+已到达系统断点！
+DLL已载入： 74CC0000 C:\Windows\SysWOW64\umpdc.dll
+INT3 断点 "入口断点" 于 <siglusenginechs.EntryPoint> (005C373A)!
+DLL已载入： 74380000 C:\Windows\SysWOW64\windows.storage.dll
+DLL已载入： 742B0000 C:\Windows\SysWOW64\WinTypes.dll
+DLL已载入： 75AE0000 C:\Windows\SysWOW64\SHCore.dll
+DLL已载入： 77350000 C:\Windows\SysWOW64\shlwapi.dll
+DLL已载入： 74C80000 C:\Windows\SysWOW64\kernel.appcore.dll
+DLL已载入： 770C0000 C:\Windows\SysWOW64\bcryptprimitives.dll
+DLL已载入： 6C780000 C:\Windows\SysWOW64\uxtheme.dll
+DLL已载入： 78730000 C:\Windows\SysWOW64\riched32.dll
+DLL已载入： 79FC0000 C:\Windows\SysWOW64\riched20.dll
+DLL已载入： 7A040000 C:\Windows\SysWOW64\msls31.dll
+DLL已载入： 683F0000 C:\Windows\SysWOW64\usp10.dll
+文件读取: reg.ini
+文件读取: Gameexe.chs
+设置文件指针  句柄:2CC  offset:00  基准:2
+设置文件指针  句柄:2CC  offset:00  基准:1
+设置文件指针  句柄:2CC  offset:00  基准:0
+读取文件  句柄:2CC  Buffer:3670048  字节数:3000
+读取文件  句柄:2CC  Buffer:2F0DD10  字节数:1000
+文件读取: 读取内存失败……
+设置文件指针  句柄:2CC  offset:00  基准:2
+设置文件指针  句柄:2CC  offset:00  基准:1
+设置文件指针  句柄:2CC  offset:00  基准:0
+读取文件  句柄:2CC  Buffer:369CB60  字节数:1000
+读取文件  句柄:2CC  Buffer:369CB60  字节数:1000
+DLL已载入： 772A0000 C:\Windows\SysWOW64\clbcatq.dll
+DLL已载入： 6AC60000 C:\Windows\SysWOW64\wbem\wbemprox.dll
+DLL已载入： 6ABF0000 C:\Windows\SysWOW64\wbemcomn.dll
+线程 45B0 已启动，入口： combase.76A85CB0
+线程 5530 已启动，入口： ntdll.77CCEF40
+线程 1D00 已启动，入口： ntdll.77CCEF40
+DLL已载入： 6ABD0000 C:\Windows\SysWOW64\wbem\wbemsvc.dll
+DLL已载入： 6AB00000 C:\Windows\SysWOW64\wbem\fastprox.dll
+DLL已载入： 6AAE0000 C:\Windows\SysWOW64\amsi.dll
+DLL已载入： 63CD0000 C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ed9f4dbcacae7313\igdumdim32.dll
+DLL已载入： 60760000 C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ed9f4dbcacae7313\igd9trinity32.dll
+DLL已载入： 74F10000 C:\Windows\SysWOW64\dxgi.dll
+DLL已载入： 721C0000 C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ed9f4dbcacae7313\igdgmm32.dll
+DLL已载入： 6EB50000 C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ed9f4dbcacae7313\igc32.dll
+DLL已载入： 6E130000 C:\Windows\SysWOW64\profapi.dll
+文件读取: \\?\C:\Users\21992\AppData\LocalLow\Intel\ShaderCache\6fd911c061960c694ca84a803068108c16d08dca295732d7258d6751c4b961c5
+读取文件  句柄:3BC  Buffer:4C00048  字节数:6B814
+DLL已载入： 64300000 C:\Windows\SysWOW64\ControlLib32.dll
+DLL已载入： 751D0000 C:\Windows\SysWOW64\cfgmgr32.dll
+DLL已载入： 72500000 C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ed9f4dbcacae7313\IntelControlLib32.dll
+DLL已载入： 63BB0000 C:\Windows\SysWOW64\ResourcePolicyClient.dll
+DLL已卸载： 63BB0000 resourcepolicyclient.dll
+DLL已载入： 74000000 C:\Windows\SysWOW64\directxdatabasehelper.dll
+DLL已载入： 5F380000 C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ed9f4dbcacae7313\igd9dxva32.dll
+DLL已载入： 765B0000 C:\Windows\SysWOW64\setupapi.dll
+DLL已载入： 5DB70000 C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ed9f4dbcacae7313\media_bin_32.dll
+DLL已载入： 63BB0000 C:\Windows\SysWOW64\ResourcePolicyClient.dll
+DLL已卸载： 63BB0000 resourcepolicyclient.dll
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\savedata\window.ini
+设置文件指针  句柄:424  offset:00  基准:2
+设置文件指针  句柄:424  offset:00  基准:1
+设置文件指针  句柄:424  offset:00  基准:0
+读取文件  句柄:424  Buffer:369D1B8  字节数:1000
+读取文件  句柄:424  Buffer:369D1B8  字节数:1000
+DLL已载入： 77540000 C:\Windows\SysWOW64\msctf.dll
+DLL已载入： 63BB0000 C:\Windows\SysWOW64\ResourcePolicyClient.dll
+DLL已卸载： 63BB0000 resourcepolicyclient.dll
+DLL已载入： 63FF0000 C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ed9f4dbcacae7313\igdml32.dll
+文件读取: \\?\C:\Users\21992\AppData\LocalLow\Intel\ShaderCache\4b55e5a9032382ffadf443dd0074e264671e9d59a6a8da1230b79dea72f73515
+文件读取: \\?\C:\Users\21992\AppData\LocalLow\Intel\ShaderCache\c357a37d5c4d52bd8c79cc04105115d82dd3edf2945fb6addbf3ae0e1dd4a114
+读取文件  句柄:3D4  Buffer:4C58780  字节数:1A
+读取文件  句柄:3BC  Buffer:473B850  字节数:40
+读取文件  句柄:3BC  Buffer:4D48A38  字节数:129
+线程 28B4 已启动，入口： igd9trinity32.61094C70
+线程 1A44 已启动，入口： igd9trinity32.61094C70
+线程 5908 已启动，入口： igd9trinity32.61094C70
+DLL已载入： 64280000 C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_ed9f4dbcacae7313\igdinfo32.dll
+DLL已载入： 74C20000 C:\Windows\SysWOW64\cryptsp.dll
+DLL已载入： 74BF0000 C:\Windows\SysWOW64\rsaenh.dll
+DLL已载入： 74AB0000 C:\Windows\SysWOW64\cryptbase.dll
+线程 5A0C 已启动，入口： igd9trinity32.61094C70
+线程 43CC 已启动，入口： igd9trinity32.61094C70
+线程 4D2C 已启动，入口： igd9trinity32.61094C70
+线程 44B8 已启动，入口： igd9trinity32.61094C70
+线程 1E08 已启动，入口： igd9trinity32.61094C70
+线程 25EC 已启动，入口： igd9trinity32.61094C70
+线程 208C 已启动，入口： igd9trinity32.61094C70
+读取文件  句柄:3BC  Buffer:7F96448  字节数:40
+读取文件  句柄:3BC  Buffer:8034940  字节数:17F6
+读取文件  句柄:3BC  Buffer:7F96298  字节数:40
+读取文件  句柄:3BC  Buffer:80017E0  字节数:1820
+读取文件  句柄:3BC  Buffer:7F96130  字节数:40
+读取文件  句柄:3BC  Buffer:8000700  字节数:1CA8
+线程 2390 已启动，入口： igd9trinity32.61094C70
+读取文件  句柄:3BC  Buffer:7F96178  字节数:40
+读取文件  句柄:3BC  Buffer:8081700  字节数:140E
+读取文件  句柄:3BC  Buffer:7F96208  字节数:40
+读取文件  句柄:3BC  Buffer:808FF00  字节数:22B0
+线程 2B8C 已启动，入口： igd9trinity32.61094C70
+读取文件  句柄:3BC  Buffer:7F95D40  字节数:40
+读取文件  句柄:3BC  Buffer:8043AC0  字节数:1624
+读取文件  句柄:3BC  Buffer:7F96010  字节数:40
+读取文件  句柄:3BC  Buffer:80E1100  字节数:15CA
+线程 3C48 已启动，入口： igd9trinity32.61094C70
+读取文件  句柄:3BC  Buffer:7F95DD0  字节数:40
+读取文件  句柄:3BC  Buffer:812C700  字节数:18DC
+读取文件  句柄:3BC  Buffer:7F96370  字节数:40
+读取文件  句柄:3BC  Buffer:8122300  字节数:18F6
+读取文件  句柄:3BC  Buffer:7F96400  字节数:40
+读取文件  句柄:3BC  Buffer:813DE20  字节数:1BE3
+读取文件  句柄:3BC  Buffer:7F96130  字节数:40
+读取文件  句柄:3BC  Buffer:807DA00  字节数:22CE
+读取文件  句柄:3BC  Buffer:7F964D8  字节数:40
+读取文件  句柄:3BC  Buffer:8119A20  字节数:41F
+线程 302C 已启动，入口： igd9trinity32.61094C70
+线程 3448 已启动，入口： igd9trinity32.61094C70
+读取文件  句柄:3BC  Buffer:7F95EF0  字节数:40
+读取文件  句柄:3BC  Buffer:8115520  字节数:22EC
+读取文件  句柄:3BC  Buffer:7F964D8  字节数:40
+读取文件  句柄:3BC  Buffer:817F480  字节数:22AB
+读取文件  句柄:3BC  Buffer:7F95EF0  字节数:40
+读取文件  句柄:3BC  Buffer:8166B80  字节数:1CEB
+读取文件  句柄:3BC  Buffer:7F96328  字节数:40
+读取文件  句柄:3BC  Buffer:81AC080  字节数:1C6B
+读取文件  句柄:3BC  Buffer:7F963B8  字节数:40
+读取文件  句柄:3BC  Buffer:818A880  字节数:21FB
+读取文件  句柄:3BC  Buffer:7F96130  字节数:40
+读取文件  句柄:3BC  Buffer:8168640  字节数:1C9F
+读取文件  句柄:3BC  Buffer:7F95C68  字节数:40
+读取文件  句柄:3BC  Buffer:8112980  字节数:21FD
+读取文件  句柄:3BC  Buffer:7F96250  字节数:40
+读取文件  句柄:3BC  Buffer:8112980  字节数:21B8
+读取文件  句柄:3BC  Buffer:7F95F38  字节数:40
+读取文件  句柄:3BC  Buffer:8112980  字节数:1BD0
+线程 5840 已启动，入口： igd9trinity32.61094C70
+读取文件  句柄:3BC  Buffer:7F96370  字节数:40
+读取文件  句柄:3BC  Buffer:82030E0  字节数:1BD1
+读取文件  句柄:3BC  Buffer:7F963B8  字节数:40
+读取文件  句柄:3BC  Buffer:820B1E0  字节数:1A74
+读取文件  句柄:3BC  Buffer:7F95CF8  字节数:40
+读取文件  句柄:3BC  Buffer:8200CC0  字节数:2072
+读取文件  句柄:3BC  Buffer:7F964D8  字节数:40
+读取文件  句柄:3BC  Buffer:821ECA0  字节数:1F34
+读取文件  句柄:3BC  Buffer:7F961C0  字节数:40
+读取文件  句柄:3BC  Buffer:80DF3C0  字节数:197D
+读取文件  句柄:3BC  Buffer:7F95D88  字节数:40
+读取文件  句柄:3BC  Buffer:80DF3C0  字节数:193D
+读取文件  句柄:3BC  Buffer:7F96400  字节数:40
+读取文件  句柄:3BC  Buffer:80DAFE0  字节数:1A1B
+读取文件  句柄:3BC  Buffer:7F95DD0  字节数:40
+读取文件  句柄:3BC  Buffer:819D640  字节数:1F7C
+读取文件  句柄:3BC  Buffer:7F95F38  字节数:40
+读取文件  句柄:3BC  Buffer:80DAFE0  字节数:1B93
+读取文件  句柄:3BC  Buffer:7F96010  字节数:40
+读取文件  句柄:3BC  Buffer:81A2180  字节数:2008
+读取文件  句柄:3BC  Buffer:81CB128  字节数:40
+读取文件  句柄:3BC  Buffer:81EE760  字节数:19A9
+读取文件  句柄:3BC  Buffer:473B460  字节数:40
+读取文件  句柄:3BC  Buffer:81F6000  字节数:2036
+读取文件  句柄:3BC  Buffer:81B1F78  字节数:40
+读取文件  句柄:3BC  Buffer:80D1100  字节数:20BE
+读取文件  句柄:3BC  Buffer:81CB1B8  字节数:40
+读取文件  句柄:3BC  Buffer:81EE740  字节数:19CA
+读取文件  句柄:3BC  Buffer:81B1FC0  字节数:40
+读取文件  句柄:3BC  Buffer:8121100  字节数:1BA9
+线程 E14 已启动，入口： igd9trinity32.61094C70
+线程 3360 已启动，入口： igd9trinity32.61094C70
+读取文件  句柄:3BC  Buffer:81B20E0  字节数:40
+读取文件  句柄:3BC  Buffer:8126500  字节数:1BAA
+读取文件  句柄:3BC  Buffer:81B1E58  字节数:40
+读取文件  句柄:3BC  Buffer:C85C330  字节数:C60
+读取文件  句柄:3BC  Buffer:81B1F78  字节数:40
+读取文件  句柄:3BC  Buffer:80DEFE0  字节数:1B5D
+读取文件  句柄:3BC  Buffer:81B2008  字节数:40
+读取文件  句柄:3BC  Buffer:C85C330  字节数:C45
+读取文件  句柄:3BC  Buffer:81B2170  字节数:40
+读取文件  句柄:3BC  Buffer:C8AAB20  字节数:193A
+读取文件  句柄:3BC  Buffer:81B1EE8  字节数:40
+读取文件  句柄:3BC  Buffer:820CCA0  字节数:18FB
+读取文件  句柄:3BC  Buffer:81B2050  字节数:40
+读取文件  句柄:3BC  Buffer:C8AAB20  字节数:134D
+读取文件  句柄:3BC  Buffer:81B2128  字节数:40
+读取文件  句柄:3BC  Buffer:4C83820  字节数:12C9
+读取文件  句柄:3BC  Buffer:81B2128  字节数:40
+读取文件  句柄:3BC  Buffer:C8AAB20  字节数:181E
+读取文件  句柄:3BC  Buffer:81B2008  字节数:40
+读取文件  句柄:3BC  Buffer:C8AAB20  字节数:1898
+读取文件  句柄:3BC  Buffer:81B1E58  字节数:40
+读取文件  句柄:3BC  Buffer:C8AAB20  字节数:1885
+读取文件  句柄:3BC  Buffer:81B1EA0  字节数:40
+读取文件  句柄:3BC  Buffer:4C83820  字节数:11CA
+读取文件  句柄:3BC  Buffer:C88A180  字节数:40
+读取文件  句柄:3BC  Buffer:C8C3E40  字节数:1218
+读取文件  句柄:3BC  Buffer:81CB170  字节数:40
+读取文件  句柄:3BC  Buffer:4C83820  字节数:12D6
+读取文件  句柄:3BC  Buffer:81CB0E0  字节数:40
+读取文件  句柄:3BC  Buffer:4C83820  字节数:1159
+读取文件  句柄:3BC  Buffer:81CB1B8  字节数:40
+读取文件  句柄:3BC  Buffer:80DEFE0  字节数:13D0
+读取文件  句柄:3BC  Buffer:C88A0A8  字节数:40
+读取文件  句柄:3BC  Buffer:80DEFE0  字节数:1AD5
+读取文件  句柄:3BC  Buffer:81CB0E0  字节数:40
+读取文件  句柄:3BC  Buffer:80DEFE0  字节数:1A7E
+读取文件  句柄:3BC  Buffer:C88A138  字节数:40
+读取文件  句柄:3BC  Buffer:C8B3BE0  字节数:137D
+读取文件  句柄:3BC  Buffer:C88A0F0  字节数:40
+读取文件  句柄:3BC  Buffer:C8BDB18  字节数:CB0
+读取文件  句柄:3BC  Buffer:C88A060  字节数:40
+读取文件  句柄:3BC  Buffer:C8B3BE0  字节数:1984
+读取文件  句柄:3BC  Buffer:473B460  字节数:40
+读取文件  句柄:3BC  Buffer:C85C330  字节数:C7F
+读取文件  句柄:3BC  Buffer:81CB0E0  字节数:40
+读取文件  句柄:3BC  Buffer:80DEFE0  字节数:1AD3
+线程 41DC 已启动，入口： igd9trinity32.61094C70
+读取文件  句柄:3BC  Buffer:C88A180  字节数:40
+读取文件  句柄:3BC  Buffer:C8B4EB8  字节数:358
+DLL已载入： 657A0000 C:\Windows\SysWOW64\TextShaping.dll
+DLL已载入： 5BDF0000 C:\Windows\SysWOW64\MMDevAPI.dll
+DLL已载入： 6A310000 C:\Windows\SysWOW64\devobj.dll
+线程 2788 已启动，入口： dsound.6868F1E0
+DLL已载入： 5A1E0000 C:\Windows\SysWOW64\AudioSes.dll
+DLL已载入： 63BB0000 C:\Windows\SysWOW64\ResourcePolicyClient.dll
+线程 5700 已启动，入口： ntdll.77CCEF40
+线程 35E4 已启动，入口： dsound.6868F1E0
+线程 2EAC 已启动，入口： siglusenginechs.005B1370
+DLL已载入： 66450000 C:\Windows\SysWOW64\TextInputFramework.dll
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mcur00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mcur00.g00
+设置文件指针  句柄:598  offset:00  基准:2
+设置文件指针  句柄:598  offset:00  基准:1
+设置文件指针  句柄:598  offset:00  基准:0
+读取文件  句柄:598  Buffer:36BC438  字节数:5000
+读取文件  句柄:598  Buffer:3705030  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\Scene.chs
+设置文件指针  句柄:598  offset:00  基准:2
+设置文件指针  句柄:598  offset:00  基准:1
+设置文件指针  句柄:598  offset:00  基准:0
+读取文件  句柄:598  Buffer:D05E020  字节数:BDF000
+读取文件  句柄:598  Buffer:B1BE150  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\dat\mode.cgm
+设置文件指针  句柄:598  offset:00  基准:2
+设置文件指针  句柄:598  offset:00  基准:1
+设置文件指针  句柄:598  offset:00  基准:0
+读取文件  句柄:598  Buffer:36D7A80  字节数:1000
+读取文件  句柄:598  Buffer:B1C0160  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\dat\tcdata.tcr
+设置文件指针  句柄:598  offset:00  基准:2
+设置文件指针  句柄:598  offset:00  基准:1
+设置文件指针  句柄:598  offset:00  基准:0
+读取文件  句柄:598  Buffer:B2A3B48  字节数:5000
+读取文件  句柄:598  Buffer:B1BB138  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\savedata\global.sav
+设置文件指针  句柄:668  offset:00  基准:2
+设置文件指针  句柄:668  offset:00  基准:1
+设置文件指针  句柄:668  offset:00  基准:0
+读取文件  句柄:668  Buffer:3707040  字节数:1000
+读取文件  句柄:668  Buffer:3707040  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\savedata\system.ini
+设置文件指针  句柄:66C  offset:00  基准:2
+设置文件指针  句柄:66C  offset:00  基准:1
+设置文件指针  句柄:66C  offset:00  基准:0
+读取文件  句柄:66C  Buffer:3709050  字节数:1000
+读取文件  句柄:66C  Buffer:3709050  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\savedata\read.sav
+设置文件指针  句柄:670  offset:00  基准:2
+设置文件指针  句柄:670  offset:00  基准:1
+设置文件指针  句柄:670  offset:00  基准:0
+读取文件  句柄:670  Buffer:3707040  字节数:1000
+读取文件  句柄:670  Buffer:B2AA458  字节数:3000
+读取文件  句柄:670  Buffer:3707040  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\savedata\config.sav
+设置文件指针  句柄:670  offset:00  基准:2
+设置文件指针  句柄:670  offset:00  基准:1
+设置文件指针  句柄:670  offset:00  基准:0
+读取文件  句柄:670  Buffer:3708048  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\savedata\movie.ini
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:3703020  字节数:1000
+读取文件  句柄:674  Buffer:3703020  字节数:1000
+读取文件  句柄:3BC  Buffer:C9AAD58  字节数:40
+读取文件  句柄:3BC  Buffer:81539E0  字节数:1159
+读取文件  句柄:3BC  Buffer:C9AB220  字节数:40
+读取文件  句柄:3BC  Buffer:CACFC80  字节数:1218
+读取文件  句柄:3BC  Buffer:C9AAB60  字节数:40
+读取文件  句柄:3BC  Buffer:800B740  字节数:11CA
+读取文件  句柄:3BC  Buffer:81CB1B8  字节数:40
+读取文件  句柄:3BC  Buffer:CACFC80  字节数:1885
+读取文件  句柄:3BC  Buffer:81CB200  字节数:40
+读取文件  句柄:3BC  Buffer:7F6F420  字节数:1898
+读取文件  句柄:3BC  Buffer:C9AAC38  字节数:40
+读取文件  句柄:3BC  Buffer:8106020  字节数:181E
+读取文件  句柄:3BC  Buffer:C988B00  字节数:40
+读取文件  句柄:3BC  Buffer:8106020  字节数:12C9
+读取文件  句柄:3BC  Buffer:81CB170  字节数:40
+读取文件  句柄:3BC  Buffer:8106020  字节数:134D
+读取文件  句柄:3BC  Buffer:C988E60  字节数:40
+读取文件  句柄:3BC  Buffer:81CDB20  字节数:12D6
+读取文件  句柄:3BC  Buffer:C988CF8  字节数:40
+读取文件  句柄:3BC  Buffer:C8D1BA0  字节数:18FB
+读取文件  句柄:3BC  Buffer:C988BD8  字节数:40
+读取文件  句柄:3BC  Buffer:81CDB20  字节数:1984
+读取文件  句柄:3BC  Buffer:C9AB220  字节数:40
+读取文件  句柄:3BC  Buffer:819AD60  字节数:193A
+读取文件  句柄:3BC  Buffer:C988E60  字节数:40
+读取文件  句柄:3BC  Buffer:819AD60  字节数:137D
+读取文件  句柄:3BC  Buffer:C988E60  字节数:40
+读取文件  句柄:3BC  Buffer:7F71230  字节数:C45
+读取文件  句柄:3BC  Buffer:C988BD8  字节数:40
+读取文件  句柄:3BC  Buffer:81539E0  字节数:13D0
+读取文件  句柄:3BC  Buffer:81CB170  字节数:40
+读取文件  句柄:3BC  Buffer:C85F4C0  字节数:1A7E
+读取文件  句柄:3BC  Buffer:81CB170  字节数:40
+读取文件  句柄:3BC  Buffer:C8ECFC0  字节数:1AD5
+读取文件  句柄:3BC  Buffer:C9AB220  字节数:40
+读取文件  句柄:3BC  Buffer:C8ECFC0  字节数:1AD3
+读取文件  句柄:3BC  Buffer:C988B90  字节数:40
+读取文件  句柄:3BC  Buffer:C978C68  字节数:C60
+读取文件  句柄:3BC  Buffer:C988E60  字节数:40
+读取文件  句柄:3BC  Buffer:7F71230  字节数:CB0
+读取文件  句柄:3BC  Buffer:C9FEC48  字节数:40
+读取文件  句柄:3BC  Buffer:7F71230  字节数:C7F
+读取文件  句柄:3BC  Buffer:C9FEB70  字节数:40
+读取文件  句柄:3BC  Buffer:C8EE560  字节数:1B5D
+读取文件  句柄:3BC  Buffer:81CB200  字节数:40
+读取文件  句柄:3BC  Buffer:7F85A20  字节数:1BAA
+读取文件  句柄:3BC  Buffer:C9AAB60  字节数:40
+读取文件  句柄:3BC  Buffer:7F87620  字节数:1BA9
+读取文件  句柄:3BC  Buffer:C9FEA08  字节数:40
+读取文件  句柄:3BC  Buffer:CB23D40  字节数:193D
+读取文件  句柄:3BC  Buffer:C988C68  字节数:40
+读取文件  句柄:3BC  Buffer:CB23D40  字节数:19A9
+读取文件  句柄:3BC  Buffer:C988E18  字节数:40
+读取文件  句柄:3BC  Buffer:CB83440  字节数:197D
+读取文件  句柄:3BC  Buffer:C9FEA08  字节数:40
+读取文件  句柄:3BC  Buffer:CB46160  字节数:1F34
+读取文件  句柄:3BC  Buffer:81CB170  字节数:40
+读取文件  句柄:3BC  Buffer:CB6E680  字节数:2008
+读取文件  句柄:3BC  Buffer:C9AAC38  字节数:40
+读取文件  句柄:3BC  Buffer:CBA0F60  字节数:1F7C
+读取文件  句柄:3BC  Buffer:C988B48  字节数:40
+读取文件  句柄:3BC  Buffer:80ECF40  字节数:19CA
+读取文件  句柄:3BC  Buffer:81CB170  字节数:40
+读取文件  句柄:3BC  Buffer:80F0180  字节数:1A74
+读取文件  句柄:3BC  Buffer:81CB200  字节数:40
+读取文件  句柄:3BC  Buffer:80F0180  字节数:1A1B
+读取文件  句柄:3BC  Buffer:C9FE978  字节数:40
+读取文件  句柄:3BC  Buffer:CB46160  字节数:2036
+读取文件  句柄:3BC  Buffer:C9FEC00  字节数:40
+读取文件  句柄:3BC  Buffer:CBA8A80  字节数:20BE
+读取文件  句柄:3BC  Buffer:C9AAB60  字节数:40
+读取文件  句柄:3BC  Buffer:C8658A0  字节数:2072
+读取文件  句柄:3BC  Buffer:C988B00  字节数:40
+读取文件  句柄:3BC  Buffer:CBB4B20  字节数:1B93
+读取文件  句柄:3BC  Buffer:81CB170  字节数:40
+读取文件  句柄:3BC  Buffer:CBA39E0  字节数:1BD1
+读取文件  句柄:3BC  Buffer:C988C68  字节数:40
+读取文件  句柄:3BC  Buffer:CB991C0  字节数:1BD0
+读取文件  句柄:3BC  Buffer:81CB200  字节数:40
+读取文件  句柄:3BC  Buffer:CBBCF00  字节数:21B8
+读取文件  句柄:3BC  Buffer:C9FEB70  字节数:40
+读取文件  句柄:3BC  Buffer:CB963A0  字节数:21FD
+读取文件  句柄:3BC  Buffer:C9AAB60  字节数:40
+读取文件  句柄:3BC  Buffer:CBDBEE0  字节数:21FB
+读取文件  句柄:3BC  Buffer:C9FE858  字节数:40
+读取文件  句柄:3BC  Buffer:CBC41E0  字节数:1C6B
+读取文件  句柄:3BC  Buffer:C988CF8  字节数:40
+读取文件  句柄:3BC  Buffer:CBDBEE0  字节数:1C9F
+读取文件  句柄:3BC  Buffer:819C308  字节数:40
+读取文件  句柄:3BC  Buffer:CBB1180  字节数:1CEB
+读取文件  句柄:3BC  Buffer:81CB170  字节数:40
+读取文件  句柄:3BC  Buffer:CBB1180  字节数:22AB
+读取文件  句柄:3BC  Buffer:C988CF8  字节数:40
+读取文件  句柄:3BC  Buffer:CBB1180  字节数:22EC
+读取文件  句柄:3BC  Buffer:C9AB220  字节数:40
+读取文件  句柄:3BC  Buffer:CBB1180  字节数:22CE
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00a00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00a00.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B30C710  字节数:E000 # 0~E000
+读取文件  句柄:674  Buffer:3705030  字节数:1000 # E000~
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00a01.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00a01.g00
+设置文件指针  句柄:67C  offset:00  基准:2
+设置文件指针  句柄:67C  offset:00  基准:1
+设置文件指针  句柄:67C  offset:00  基准:0
+读取文件  句柄:67C  Buffer:B31B8E8  字节数:2B000
+读取文件  句柄:67C  Buffer:3707040  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c00.g00
+设置文件指针  句柄:67C  offset:00  基准:2
+设置文件指针  句柄:67C  offset:00  基准:1
+设置文件指针  句柄:67C  offset:00  基准:0
+读取文件  句柄:67C  Buffer:B31B8E8  字节数:4000
+读取文件  句柄:67C  Buffer:3704028  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c01.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c01.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:4000
+读取文件  句柄:674  Buffer:3703020  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c02.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c02.g00
+设置文件指针  句柄:67C  offset:00  基准:2
+设置文件指针  句柄:67C  offset:00  基准:1
+设置文件指针  句柄:67C  offset:00  基准:0
+读取文件  句柄:67C  Buffer:B31B8E8  字节数:5000
+读取文件  句柄:67C  Buffer:3703020  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c03.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c03.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:9000
+读取文件  句柄:674  Buffer:3702018  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c04.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c04.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:8000
+读取文件  句柄:674  Buffer:3708048  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c05.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c05.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:8000
+读取文件  句柄:674  Buffer:3706038  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c06.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c06.g00
+设置文件指针  句柄:668  offset:00  基准:2
+设置文件指针  句柄:668  offset:00  基准:1
+设置文件指针  句柄:668  offset:00  基准:0
+读取文件  句柄:668  Buffer:B31B8E8  字节数:9000
+读取文件  句柄:668  Buffer:3703020  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c07.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c07.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:4000
+读取文件  句柄:674  Buffer:3702018  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c08.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c08.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:5000
+读取文件  句柄:674  Buffer:3709050  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c09.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c09.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:5000
+读取文件  句柄:674  Buffer:3705030  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c10.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c10.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:5000
+读取文件  句柄:674  Buffer:3706038  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c11.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c11.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:5000
+读取文件  句柄:674  Buffer:3702018  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c12.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c12.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:5000
+读取文件  句柄:674  Buffer:3702018  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c13.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c13.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:5000
+读取文件  句柄:674  Buffer:3709050  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c14.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c14.g00
+设置文件指针  句柄:67C  offset:00  基准:2
+设置文件指针  句柄:67C  offset:00  基准:1
+设置文件指针  句柄:67C  offset:00  基准:0
+读取文件  句柄:67C  Buffer:B31B8E8  字节数:5000
+读取文件  句柄:67C  Buffer:3704028  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c15.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00c15.g00
+设置文件指针  句柄:67C  offset:00  基准:2
+设置文件指针  句柄:67C  offset:00  基准:1
+设置文件指针  句柄:67C  offset:00  基准:0
+读取文件  句柄:67C  Buffer:B31B8E8  字节数:5000
+读取文件  句柄:67C  Buffer:3706038  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur00.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:17000
+读取文件  句柄:674  Buffer:3704028  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw01a00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw01a00.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:A000
+读取文件  句柄:674  Buffer:3709050  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw01a01.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw01a01.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:1D000
+读取文件  句柄:674  Buffer:3707040  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur01.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur01.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:1000
+读取文件  句柄:674  Buffer:3705030  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur02.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur02.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:7000
+读取文件  句柄:674  Buffer:3705030  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00a00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00a00.g00
+设置文件指针  句柄:674  offset:00  基准:2
+设置文件指针  句柄:674  offset:00  基准:1
+设置文件指针  句柄:674  offset:00  基准:0
+读取文件  句柄:674  Buffer:B31B8E8  字节数:E000
+读取文件  句柄:674  Buffer:3703020  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00a01.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw00a01.g00
+设置文件指针  句柄:4D4  offset:00  基准:2
+设置文件指针  句柄:4D4  offset:00  基准:1
+设置文件指针  句柄:4D4  offset:00  基准:0
+读取文件  句柄:4D4  Buffer:B31B8E8  字节数:2B000
+读取文件  句柄:4D4  Buffer:3704028  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur00.g00
+设置文件指针  句柄:4D4  offset:00  基准:2
+设置文件指针  句柄:4D4  offset:00  基准:1
+设置文件指针  句柄:4D4  offset:00  基准:0
+读取文件  句柄:4D4  Buffer:B31B8E8  字节数:17000
+读取文件  句柄:4D4  Buffer:3703020  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw01a00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw01a00.g00
+设置文件指针  句柄:4D4  offset:00  基准:2
+设置文件指针  句柄:4D4  offset:00  基准:1
+设置文件指针  句柄:4D4  offset:00  基准:0
+读取文件  句柄:4D4  Buffer:B31B8E8  字节数:A000
+读取文件  句柄:4D4  Buffer:3708048  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw01a01.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_mw01a01.g00
+设置文件指针  句柄:4D4  offset:00  基准:2
+设置文件指针  句柄:4D4  offset:00  基准:1
+设置文件指针  句柄:4D4  offset:00  基准:0
+读取文件  句柄:4D4  Buffer:B31B8E8  字节数:1D000
+读取文件  句柄:4D4  Buffer:3707040  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur01.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur01.g00
+设置文件指针  句柄:67C  offset:00  基准:2
+设置文件指针  句柄:67C  offset:00  基准:1
+设置文件指针  句柄:67C  offset:00  基准:0
+读取文件  句柄:67C  Buffer:B31B8E8  字节数:1000
+读取文件  句柄:67C  Buffer:3708048  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur02.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_mw_kcur02.g00
+设置文件指针  句柄:67C  offset:00  基准:2
+设置文件指针  句柄:67C  offset:00  基准:1
+设置文件指针  句柄:67C  offset:00  基准:0
+读取文件  句柄:67C  Buffer:B31B8E8  字节数:7000
+读取文件  句柄:67C  Buffer:3709050  字节数:1000
+DLL已载入： 6DCE0000 C:\Windows\SysWOW64\sspicli.dll
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_war00.g01
+设置文件指针  句柄:668  offset:00  基准:2
+设置文件指针  句柄:668  offset:00  基准:1
+设置文件指针  句柄:668  offset:00  基准:0
+读取文件  句柄:668  Buffer:F1F3AE8  字节数:38000
+读取文件  句柄:668  Buffer:3709050  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_klogo00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_klogo00.g00
+设置文件指针  句柄:680  offset:00  基准:2
+设置文件指针  句柄:680  offset:00  基准:1
+设置文件指针  句柄:680  offset:00  基准:0
+读取文件  句柄:680  Buffer:F1F3AE8  字节数:1000
+读取文件  句柄:680  Buffer:3708048  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_bga_bg00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_bga_bg00.g00
+设置文件指针  句柄:684  offset:00  基准:2
+设置文件指针  句柄:684  offset:00  基准:1
+设置文件指针  句柄:684  offset:00  基准:0
+读取文件  句柄:684  Buffer:F9BC020  字节数:3E2000
+读取文件  句柄:684  Buffer:3709050  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_ch00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_ch00.g00
+设置文件指针  句柄:684  offset:00  基准:2
+设置文件指针  句柄:684  offset:00  基准:1
+设置文件指针  句柄:684  offset:00  基准:0
+读取文件  句柄:684  Buffer:F9BC020  字节数:D0000
+读取文件  句柄:684  Buffer:3708048  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_kt00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_kt00.g00
+设置文件指针  句柄:688  offset:00  基准:2
+设置文件指针  句柄:688  offset:00  基准:1
+设置文件指针  句柄:688  offset:00  基准:0
+读取文件  句柄:688  Buffer:F9BC020  字节数:D3000
+读取文件  句柄:688  Buffer:3708048  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_lc00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_lc00.g00
+设置文件指针  句柄:688  offset:00  基准:2
+设置文件指针  句柄:688  offset:00  基准:1
+设置文件指针  句柄:688  offset:00  基准:0
+读取文件  句柄:688  Buffer:F9BC020  字节数:D4000
+读取文件  句柄:688  Buffer:3708048  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_ak00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_ak00.g00
+设置文件指针  句柄:68C  offset:00  基准:2
+设置文件指针  句柄:68C  offset:00  基准:1
+设置文件指针  句柄:68C  offset:00  基准:0
+读取文件  句柄:68C  Buffer:F9BC020  字节数:B0000
+读取文件  句柄:68C  Buffer:3704028  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_sz00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_sz00.g00
+设置文件指针  句柄:68C  offset:00  基准:2
+设置文件指针  句柄:68C  offset:00  基准:1
+设置文件指针  句柄:68C  offset:00  基准:0
+读取文件  句柄:68C  Buffer:F9BC020  字节数:B1000
+读取文件  句柄:68C  Buffer:3706038  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_kg00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_kg00.g00
+设置文件指针  句柄:690  offset:00  基准:2
+设置文件指针  句柄:690  offset:00  基准:1
+设置文件指针  句柄:690  offset:00  基准:0
+读取文件  句柄:690  Buffer:F9BC020  字节数:B2000
+读取文件  句柄:690  Buffer:3708048  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_ko00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_cga_ko00.g00
+设置文件指针  句柄:694  offset:00  基准:2
+设置文件指针  句柄:694  offset:00  基准:1
+设置文件指针  句柄:694  offset:00  基准:0
+读取文件  句柄:694  Buffer:F9BC020  字节数:1F3000
+读取文件  句柄:694  Buffer:3705030  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_rlogo00.g01
+设置文件指针  句柄:694  offset:00  基准:2
+设置文件指针  句柄:694  offset:00  基准:1
+设置文件指针  句柄:694  offset:00  基准:0
+读取文件  句柄:694  Buffer:F9BC020  字节数:33000
+读取文件  句柄:694  Buffer:3707040  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_deco00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_deco00.g00
+设置文件指针  句柄:694  offset:00  基准:2
+设置文件指针  句柄:694  offset:00  基准:1
+设置文件指针  句柄:694  offset:00  基准:0
+读取文件  句柄:694  Buffer:F9BC020  字节数:1000
+读取文件  句柄:694  Buffer:3705030  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu00.g00
+设置文件指针  句柄:698  offset:00  基准:2
+设置文件指针  句柄:698  offset:00  基准:1
+设置文件指针  句柄:698  offset:00  基准:0
+读取文件  句柄:698  Buffer:F9BC020  字节数:6000
+读取文件  句柄:698  Buffer:3707040  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu01.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu01.g00
+设置文件指针  句柄:698  offset:00  基准:2
+设置文件指针  句柄:698  offset:00  基准:1
+设置文件指针  句柄:698  offset:00  基准:0
+读取文件  句柄:698  Buffer:F9BC020  字节数:5000
+读取文件  句柄:698  Buffer:3704028  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu02.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu02.g00
+设置文件指针  句柄:698  offset:00  基准:2
+设置文件指针  句柄:698  offset:00  基准:1
+设置文件指针  句柄:698  offset:00  基准:0
+读取文件  句柄:698  Buffer:F9BC020  字节数:5000
+读取文件  句柄:698  Buffer:3709050  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu03.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu03.g00
+设置文件指针  句柄:698  offset:00  基准:2
+设置文件指针  句柄:698  offset:00  基准:1
+设置文件指针  句柄:698  offset:00  基准:0
+读取文件  句柄:698  Buffer:F9BC020  字节数:5000
+读取文件  句柄:698  Buffer:3705030  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu04.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu04.g00
+设置文件指针  句柄:69C  offset:00  基准:2
+设置文件指针  句柄:69C  offset:00  基准:1
+设置文件指针  句柄:69C  offset:00  基准:0
+读取文件  句柄:69C  Buffer:F9BC020  字节数:7000
+读取文件  句柄:69C  Buffer:3707040  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu05.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu05.g00
+设置文件指针  句柄:69C  offset:00  基准:2
+设置文件指针  句柄:69C  offset:00  基准:1
+设置文件指针  句柄:69C  offset:00  基准:0
+读取文件  句柄:69C  Buffer:F9BC020  字节数:7000
+读取文件  句柄:69C  Buffer:3702018  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu06.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_menu06.g00
+设置文件指针  句柄:6A0  offset:00  基准:2
+设置文件指针  句柄:6A0  offset:00  基准:1
+设置文件指针  句柄:6A0  offset:00  基准:0
+读取文件  句柄:6A0  Buffer:F9BC020  字节数:4000
+读取文件  句柄:6A0  Buffer:3708048  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_review00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_review00.g00
+设置文件指针  句柄:594  offset:00  基准:2
+设置文件指针  句柄:594  offset:00  基准:1
+设置文件指针  句柄:594  offset:00  基准:0
+读取文件  句柄:594  Buffer:F9BC020  字节数:4000
+读取文件  句柄:594  Buffer:3704028  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_copy00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_copy00.g00
+设置文件指针  句柄:6A0  offset:00  基准:2
+设置文件指针  句柄:6A0  offset:00  基准:1
+设置文件指针  句柄:6A0  offset:00  基准:0
+读取文件  句柄:6A0  Buffer:3704028  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\kuro.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\kuro.g00
+设置文件指针  句柄:69C  offset:00  基准:2
+设置文件指针  句柄:69C  offset:00  基准:1
+设置文件指针  句柄:69C  offset:00  基准:0
+读取文件  句柄:69C  Buffer:F9BC020  字节数:1D000
+读取文件  句柄:69C  Buffer:3709050  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\siro.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\siro.g00
+设置文件指针  句柄:698  offset:00  基准:2
+设置文件指针  句柄:698  offset:00  基准:1
+设置文件指针  句柄:698  offset:00  基准:0
+读取文件  句柄:698  Buffer:F9BC020  字节数:1D000
+读取文件  句柄:698  Buffer:3707040  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_mn00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_mn00.g00
+设置文件指针  句柄:594  offset:00  基准:2
+设置文件指针  句柄:594  offset:00  基准:1
+设置文件指针  句柄:594  offset:00  基准:0
+读取文件  句柄:594  Buffer:F9BC020  字节数:14B000
+读取文件  句柄:594  Buffer:3704028  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_tr00.g01
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\g00\mn_tt_tr00.g00
+设置文件指针  句柄:694  offset:00  基准:2
+设置文件指针  句柄:694  offset:00  基准:1
+设置文件指针  句柄:694  offset:00  基准:0
+读取文件  句柄:694  Buffer:F9BC020  字节数:148000
+读取文件  句柄:694  Buffer:3705030  字节数:1000
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\mov\mn_tt_klogo00.omv
+设置文件指针  句柄:694  offset:00  基准:2
+设置文件指针  句柄:694  offset:00  基准:1
+设置文件指针  句柄:694  offset:00  基准:0
+读取文件  句柄:694  Buffer:3704028  字节数:1000
+读取文件  句柄:694  Buffer:B31FAA0  字节数:1000
+读取文件  句柄:694  Buffer:3704028  字节数:1000
+设置文件指针  句柄:694  offset:029D0  基准:0
+读取文件  句柄:694  Buffer:3704028  字节数:200
+设置文件指针  句柄:694  offset:02A16  基准:0
+读取文件  句柄:694  Buffer:B327488  字节数:C00
+读取文件  句柄:694  Buffer:3704028  字节数:200
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\mov\mn_tt_rpa_ko00.omv
+读取文件  句柄:3BC  Buffer:C988C68  字节数:40
+读取文件  句柄:3BC  Buffer:C861600  字节数:295
+设置文件指针  句柄:68C  offset:00  基准:2
+EXCEPTION_DEBUG_INFO:
+           dwFirstChance: 1
+           ExceptionCode: 80000004 (EXCEPTION_SINGLE_STEP)
+          ExceptionFlags: 00000000
+        ExceptionAddress: 77A65D30 <kernelbase.ReadFile>
+        NumberParameters: 0
+第一次异常于 77A65D30 (80000004, EXCEPTION_SINGLE_STEP)！
+设置文件指针  句柄:68C  offset:00  基准:1
+设置文件指针  句柄:68C  offset:00  基准:0
+设置文件指针  句柄:68C  offset:01024  基准:0
+设置文件指针  句柄:68C  offset:0106A  基准:0
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\mov\mn_tt_rlogo00.omv
+设置文件指针  句柄:594  offset:00  基准:2
+设置文件指针  句柄:594  offset:00  基准:1
+设置文件指针  句柄:594  offset:00  基准:0
+设置文件指针  句柄:594  offset:0E80  基准:0
+设置文件指针  句柄:594  offset:0EC6  基准:0
+文件读取: D:\N0zoM1z0\Sec-Learning\Reverse\游戏逆向\Rewrite\\mov\mn_tt_rpa_ko01.omv
+设置文件指针  句柄:6A4  offset:00  基准:2
+设置文件指针  句柄:6A4  offset:00  基准:1
+设置文件指针  句柄:6A4  offset:00  基准:0
+设置文件指针  句柄:6A4  offset:0C6C  基准:0
+设置文件指针  句柄:6A4  offset:0CB2  基准:0
+线程 5908 已退出
+线程 2E58 已退出
+线程 5A34 已退出
+线程 4AFC 已退出
+线程 E14 已退出
+线程 5840 已退出
+线程 1E08 已退出
+线程 35E4 已退出
+线程 3C48 已退出
+线程 2B8C 已退出
+线程 4D2C 已退出
+线程 2390 已退出
+线程 43CC 已退出
+线程 5A0C 已退出
+线程 25EC 已退出
+线程 2788 已退出
+线程 2EAC 已退出
+线程 1A44 已退出
+线程 28B4 已退出
+线程 1D00 已退出
+线程 5700 已退出
+线程 5530 已退出
+线程 45B0 已退出
+线程 208C 已退出
+线程 5938 已退出
+线程 41DC 已退出
+线程 3448 已退出
+线程 44B8 已退出
+线程 302C 已退出
+进程已停止，退出码为 0x80000004
+正在将数据库保存于 D:\Sec-Tools\Reverse\iTruth_x64dbg_2020-05-15_14-40_v2\release\x32\db\SiglusEngineCHS.exe.dd32 406毫秒
+调试结束！
